@@ -1,0 +1,71 @@
+@media only screen and (min-width: 768px) {
+  #mobile-nav {
+    display: none;
+  }
+}
+
+#header_text {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 110%;
+}
+
+#nav-list-text {
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.5px;
+}
+
+#nav-text-login-button {
+  color: #2563eb;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.5px;
+}
+
+#nav-text-sign-button {
+  padding: 12px;
+  color: white;
+  border-radius: 8px;
+  border: 2px solid var(--Blue-600, #2563eb);
+  background: var(--Blue-600, #2563eb);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.5px;
+}
+
+#laing-hero-text-header {
+  /* Heading/1 M */
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 110%; /* 79.2px */
+}
+
+#landing-hero-text-lead {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+}
+
+#landing-hero-logo-banner {
+  padding: 16px;
+  border-radius: 8px;
+  background: #f1f5f9;
+}
+
+#banner-nav-list {
+  color: #94a3b8;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 110%;
+}
