@@ -70,3 +70,48 @@
   font-weight: 700;
   line-height: 110%;
 }
+
+#third-hero-text-header {
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 110%;
+}
+
+#third-hero-flex {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 110%;
+}
+
+#callToActionSection {
+  padding: 80px;
+  border-radius: 30px;
+  background: linear-gradient(
+    99deg,
+    #312e81 0%,
+    #1e40af 0.01%,
+    #1e3a8a 46%,
+    #701a75 96.97%
+  );
+}
+
+#callToActionHeaderText {
+  color: #fff;
+  text-align: center;
+  /* Heading/2 */
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 110%; /* 61.6px */
+}
+
+#callToActionTextLead {
+  color: #fff;
+  /* Body/L */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+}

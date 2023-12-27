@@ -4,6 +4,7 @@ import LandingHero from './components/hero/landingHero'
 import SectionHero from './components/hero/sectionHero'
 import SectionHeroTwo from './components/hero/sectionTwoHero'
 import SectionThreeHero from './components/hero/sectionThreeHero'
+import CallToActionSection from './components/section/callToHeroSection'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <SectionHero />
       <SectionHeroTwo />
       <SectionThreeHero />
+      <CallToActionSection />
     </>
   )
 }

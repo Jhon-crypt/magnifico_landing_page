@@ -18,7 +18,7 @@ export default function SectionHeroTwo() {
                         <p id="landing-hero-text-lead" className="lead">
                             Etiam condimentum duis molestie malesuada volutpat pellentesque sed.
                             Ornare suspendisse ut ac neque lobortis sed tincidunt. Mi tempus quis
-                            massa tellus imperdiet aenean nulla id.
+                            massa tellus imperdiet aenean nulla.
                             <br />
                         </p>
                         <div className="d-grid gap-2 d-md-flex justify-content-md-start">
