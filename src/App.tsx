@@ -5,6 +5,7 @@ import SectionHero from './components/hero/sectionHero'
 import SectionHeroTwo from './components/hero/sectionTwoHero'
 import SectionThreeHero from './components/hero/sectionThreeHero'
 import CallToActionSection from './components/section/callToHeroSection'
+import Footer from './components/footer/footer'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <SectionHeroTwo />
       <SectionThreeHero />
       <CallToActionSection />
+      <Footer />
     </>
   )
 }
